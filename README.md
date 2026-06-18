@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @sinha-ashish
-- 👀 I’m interested in applying my business anlysis and project management skills to create delightful solutions
-- 🌱 I’ve learnt to apply python on Jupyter notebook to carryout financial analysis on tools like rate of return of stocks, capital asset price model, Monte Carlo for options pricing etc
-- 💞️ I enjoy working with and for the team, having a positive mindset to boost cross departmental collaboration and lead changes from the front
-- 📫 To reach out, send an email or message via linkedin
+# Hey, I'm Ashish 👋
+
+Product Manager who got tired of AI demos that never ship — so I went and figured out
+how to make production AI boring (in the best way). 🧯
+
+- 🏗️ Currently: orchestrating AI squads across a €30M enterprise portfolio at Capgemini
+- 🛡️ Obsessed with: making governance *invisible* — guardrails baked in, not bolted on
+- 🧠 Side quest: built myself an AI-powered "career brain" before I knew that was a category
+- 🪙 Will absolutely talk your ear off about token economics if you let me
+- 📍 Based in Paris, fluent in French, still working on my Italian basics 🇮🇹
+
+### What I'm actually good at
+`Production AI` · `EU AI Act Guardrails` · `Stakeholder Herding` · `Roadmaps That Survive Contact With Reality`
+
+### Currently looking for
+A place where "move fast" and "stay compliant" aren't treated as enemies.
+
+📫 [LinkedIn](https://www.linkedin.com/in/sinha-ashish/) — let's talk shop, or token costs, or both.
 
 <!---
 sinha-ashish/sinha-ashish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
